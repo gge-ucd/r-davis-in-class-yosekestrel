@@ -89,7 +89,7 @@ plot_temp <- function(singlemonth, dat = mloa2){
   return(plot)
 }
 
-plot_temp(3)
+plot_temp(4)
   
 # Save the code from Part 1 and 2 in your scripts folder and name is w8_assignment_ABC.R with your initials.
   
